@@ -7,7 +7,7 @@
 
 > Proyecto de diseño e implementación de una red empresarial completa para la empresa ficticia **AlwaysOn Tech**, realizado en Cisco Packet Tracer como parte de la asignatura *2509_ASIX_0370_Planificació i administració de xarxes — 1PM HOSPITALET*.
 
-**Autores:** Alex Naranjo — David Alvarez
+**Autores:** David Alvarez
 
 ---
 
