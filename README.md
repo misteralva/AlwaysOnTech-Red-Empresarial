@@ -5,11 +5,6 @@
 ![HSRP](https://img.shields.io/badge/Redundancy-HSRP-orange)
 ![VTP](https://img.shields.io/badge/VLANs-VTP-purple)
 
-> Design and implementation project of a complete enterprise network for the fictional company **AlwaysOn Tech**, built in Cisco Packet Tracer as part of the subject *2509_ASIX_0370 — Network Planning and Administration (Planificació i administració de xarxes) — 1PM HOSPITALET*.
-
-**Author:** David Alvarez
-
----
 
 ## Description
 
